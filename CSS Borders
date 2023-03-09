@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>hiiiii</title>
+        <style>
+            p.dot{border-style:dotted}
+            p.dash{border-style:dashed}
+            p.dotted {border-style: dotted;}
+            p.dashed {border-style: dashed;}
+            p.solid {border-style: solid;}
+            p.double {border-style: double;}
+            p.groove {border-style: groove;}
+            p.ridge {border-style: ridge;}
+            p.inset {border-style: inset;}
+            p.outset {border-style: outset;}
+            p.none {border-style: none;}
+            p.hidden {border-style: hidden;}
+            p.mix {border-style: dotted dashed solid double;}
+        </style>
+    </head>
+    <body>
+        <p class="dot">lgkfukjyfjhvfjkuyjhvjyhfvjhmnfvjhgfvyjhf,iyddfiukhfylf,yhkj</p>
+        <p class="dash">lgkfukjyfjhvfjkuyjhvjyhfvjhmnfvjhgfvyjhf,iyddfiukhfylf,yhkj</p>
+        <p class="dashed">lgkfukjyfjhvfjkuyjhvjyhfvjhmnfvjhgfvyjhf,iyddfiukhfylf,yhkj</p>
+        <p class="solid">lgkfukjyfjhvfjkuyjhvjyhfvjhmnfvjhgfvyjhf,iyddfiukhfylf,yhkj</p>
+        <p class="double">lgkfukjyfjhvfjkuyjhvjyhfvjhmnfvjhgfvyjhf,iyddfiukhfylf,yhkj</p>
+        <p class="groove">lgkfukjyfjhvfjkuyjhvjyhfvjhmnfvjhgfvyjhf,iyddfiukhfylf,yhkj</p>
+        <p class="ridge">lgkfukjyfjhvfjkuyjhvjyhfvjhmnfvjhgfvyjhf,iyddfiukhfylf,yhkj</p>
+        <p class="inset">lgkfukjyfjhvfjkuyjhvjyhfvjhmnfvjhgfvyjhf,iyddfiukhfylf,yhkj</p>
+        <p class="outset">lgkfukjyfjhvfjkuyjhvjyhfvjhmnfvjhgfvyjhf,iyddfiukhfylf,yhkj</p>
+        <p class="none">lgkfukjyfjhvfjkuyjhvjyhfvjhmnfvjhgfvyjhf,iyddfiukhfylf,yhkj</p>
+        <p class="hidden">lgkfukjyfjhvfjkuyjhvjyhfvjhmnfvjhgfvyjhf,iyddfiukhfylf,yhkj</p>
+        <p class="mix">lgkfukjyfjhvfjkuyjhvjyhfvjhmnfvjhgfvyjhf,iyddfiukhfylf,yhkj</p>
+
+    </body>
+</html>
